@@ -1,7 +1,7 @@
 # BootstrapExample
 Example reactive website in HTML5 with CSS3 and most of bootstrap 4 basics.
 
-Author: dog.D.steven (H3AR7B3A7)
+Author: dog.D.steven (H3AR7B3A7)<br>
 Property of: H3AR7B3A7
 
 This is an example bootstrap index page I made following a youtube video with resources provided by the channel. <br>
