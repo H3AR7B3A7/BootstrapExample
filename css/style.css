@@ -110,9 +110,9 @@ html, body{
 }
 
 /*-- TODO : fix .card img height not resizing in CHROME --*/
-/*.card img{*/
-/*    height: auto !important;*/
-/*}*/
+.card img{
+    height: 100% !important;
+}
 
 .fa-facebook{
     color: #3b5998;
