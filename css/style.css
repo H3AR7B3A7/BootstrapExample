@@ -109,9 +109,9 @@ html, body{
     padding: 3rem;
 }
 
-/*-- TODO : fix .card img height not resizing in CHROME --*/
 .card img{
-    height: 100% !important;
+    width: 100% !important;
+    height: auto !important;
 }
 
 .fa-facebook{
